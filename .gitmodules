@@ -1,5 +1,5 @@
 [submodule "Git & DevOps/Week 1/gitflow-assignment"]
-	path = Git & DevOps/Week 1/gitflow-assignment
+	path = "Git & DevOps/Week 1/gitflow-assignment"
 	url = git@github.com:sasivan177/gitflow-assignment.git
 [submodule "Git & DevOps/Week 1/Git w1p2"]
 	path = "Git & DevOps/Week 1/Git w1p2"
