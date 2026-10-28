@@ -4,3 +4,6 @@
 [submodule "Git & DevOps/Week 1/Git w1p2"]
 	path = "Git & DevOps/Week 1/Git w1p2"
 	url = https://github.com/sasivan177/Git-w1p2.git
+[submodule "Git & DevOps/Week 2"]
+	path = Git & DevOps/Week 2
+	url = https://github.com/sasivan177/Git-w2.git
